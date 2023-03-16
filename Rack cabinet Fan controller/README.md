@@ -1,4 +1,4 @@
-# 🌡️ Rack Panel Fan Controller (ESPhome) 🌀
+# 🌡️ Rack cabinet Fan Controller (ESPhome) 🌀
 
 This is an ESPhome configuration for a rack panel fan controller with a thermostat and a small OLED SSD1306 64x48 display. The fan controller adjusts the fan speed based on temperature thresholds, and the display shows temperature, fan speed, and other information.
 
